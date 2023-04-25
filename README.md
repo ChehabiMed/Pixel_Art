@@ -6,3 +6,7 @@ To begin you need to put your data base images in the same folder, you can put a
 Now we put our python file programs (pixelize.py and utils.py) in the same folder, then we open the CMD and navigate to our folder.
 This image show the files in my folder, it is not mandatory to put the input image or the data_base with the other files.
 
+![](https://github.com/ChehabiMed/Pixel_Art/blob/main/readme_pictures/Capture1.JPG)
+
+
+
