@@ -25,6 +25,7 @@ If you want to save the image you need to add one optional argument (-s 1) that 
 pixelize.py  data_base_path  image to pixelize_path  ratio  kernel_size   –s 1	
 ``` 
 ![](https://github.com/ChehabiMed/Pixel_Art/blob/main/readme_pictures/Capture4.JPG)
+
 The image will be saved.
 ## Functions used in the code:
 **verify_PNG_JPG(folder_path)**
