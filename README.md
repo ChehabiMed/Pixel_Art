@@ -62,7 +62,8 @@ We initializes an empty numpy array with a size equal to:
 Where we will store the final pixelized image after calculations.
 ![](https://github.com/ChehabiMed/Pixel_Art/blob/main/readme_pictures/Capture14.JPG)
 Finally, the code loops over each pixel in the mean_color_image, finds the closest match in the database, loads the chosen image, and stores it in the final image array. The progress of the pixelization process is printed to the console.
-![](https://github.com/ChehabiMed/Pixel_Art/blob/main/readme_pictures/Capture15.JPG)## The results:
+![](https://github.com/ChehabiMed/Pixel_Art/blob/main/readme_pictures/Capture15.JPG)
+## The results:
 this is the resulting image.
 ![this is the resulting image.](https://github.com/ChehabiMed/Pixel_Art/blob/main/readme_pictures/Capture16.JPG)
 let's zoom in!
